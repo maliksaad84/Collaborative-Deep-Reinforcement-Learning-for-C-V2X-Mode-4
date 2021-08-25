@@ -15,3 +15,7 @@ To use this module, you need to install the prerequisite libraries and clone thi
 ## About ##
 
 This module is being developed by [MONET Lab](http://monet.knu.ac.kr), [Kyungpook National University](https://knu.ac.kr).
+
+## License ##
+
+This software is licensed under the terms of the GNU GPLv2.
