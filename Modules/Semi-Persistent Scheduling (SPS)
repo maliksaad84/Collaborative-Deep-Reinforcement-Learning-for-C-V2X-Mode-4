@@ -99,6 +99,6 @@ class SemiPersistentScheduling:
                 self.prev_action = action
 
         if action is None:
-            print("Olmaz oyle sacma sey")
+            print(".......")
 
         return action
